@@ -1,0 +1,10 @@
+#guessBoxes{
+    -fx-max-width: 50px;
+    -fx-max-height: 50px;
+    -fx-background-color: WHITE;
+
+}
+#image{
+    -fx-max-width: 100px;
+     -fx-max-height: 170px;
+}
