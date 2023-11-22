@@ -160,6 +160,7 @@ public class HangmanClientGUI extends Application {
 
 		}
 		hbox.setSpacing(3);
+
 		Text t2= new Text(category);
 
 		ImageView iv1= new ImageView();
