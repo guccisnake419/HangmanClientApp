@@ -5,6 +5,8 @@
 
 }
 #image{
-    -fx-max-width: 100px;
-     -fx-max-height: 170px;
+
+}
+#popup{
+    -fx-background-color: YELLOW;
 }
