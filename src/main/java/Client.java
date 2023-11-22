@@ -25,7 +25,6 @@ public class Client extends Thread{
 
 	
 	public void run() {
-		
 		try {
 		socketClient= new Socket("127.0.0.1",HangmanClientGUI.port);
 	    out = new ObjectOutputStream(socketClient.getOutputStream());
